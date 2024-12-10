@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GomiSavvy
 - 👀 I’m interested in ...Python, C++
 - 🌱 I’m currently learning ...Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Go_miSavvy(x).
+- 💞️ I’m looking to collaborate on ...Internships and projects
+- 📫 How to reach me ...Go_miSavvy on x(Formerly twitter)(.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...not fun
 
