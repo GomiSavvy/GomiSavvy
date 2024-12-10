@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python, C++
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Go_miSavvy(x).
+- 📫 How to reach me ...Go_miSavvy on x(formerly Twitter).
 - ⚡ Fun fact: ...not fun
 - Byeee!
 <!---
