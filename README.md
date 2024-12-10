@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Go_miSavvy(x).
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...not fun
 - Byeee!
 <!---
