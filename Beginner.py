@@ -91,3 +91,10 @@
 #     f.close
 # finally:
 #     print("Executing Finally...")
+
+
+f = open('We.txt', 'x')
+f.write('Hello How are you doing\nMy name is what you think i am\nAm still a beginner and am getting used to mistakes.')
+f = open('TST.txt', 'r')
+print(f.read())
+f.close()
