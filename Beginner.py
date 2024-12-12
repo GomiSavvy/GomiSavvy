@@ -93,8 +93,17 @@
 #     print("Executing Finally...")
 
 
-f = open('We.txt', 'x')
-f.write('Hello How are you doing\nMy name is what you think i am\nAm still a beginner and am getting used to mistakes.')
-f = open('TST.txt', 'r')
-print(f.read())
-f.close()
+import os
+# f = open('We.txt', 'x')
+# f.write('Hello How are you doing\nMy name is what you think i am\nAm still a beginner and am getting used to mistakes.')
+# f = open('TST.txt', 'r')
+# print(f.read())
+# f.close()
+
+
+import os
+f = open('We.txt', 'r')
+if os.path.exists('We.Txt'):
+    print(f.read())
+else:
+    raise Exception
